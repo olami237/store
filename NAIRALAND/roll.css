@@ -1,0 +1,33 @@
+*{
+    padding: 0%;
+    margin:0% ;
+    font-weight: 400;
+    background-color:deepskyblue;
+    
+}
+.head{
+text-align: center;
+color: aliceblue;
+}
+.sub{
+    color:green ;
+    height:90px ;
+    font-weight: 600;
+    
+    
+}
+
+p{
+    color: aliceblue;
+line-height:30px ;
+}  
+h3{
+    color: white;
+    font-weight: bolder;
+    line-height:30px ;
+    
+}
+h1{
+    line-height:100px ;
+}
+
