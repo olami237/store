@@ -1,0 +1,44 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family:sans-serif ;
+}
+header{
+    text-align: center;
+font-size: larger;
+font-weight: 700;
+background-color:rgb(206, 159, 206) ;
+height:20px ;
+padding:40px 10px ;
+word-spacing:70px ;
+
+}
+a{
+    text-decoration: none;
+}
+.main{
+    text-align: center;
+    margin-top:30px ;
+}
+.main :first-child{
+    padding-right:350px ;
+  
+    color:rgb(35, 19, 185)
+}
+img{
+    width: 500px;
+    margin-top:20px ;
+}
+.but{
+   text-align: center;
+   margin-top: 20px;
+}
+h1{
+    
+    padding-right:190px ;
+}
+h5{
+
+    padding-right:50px ;
+    font-size:20px ;
+}
