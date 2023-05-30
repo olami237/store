@@ -1,0 +1,66 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+  
+}
+body{
+    background-color: black;
+}
+.container{
+    background-image: url(net.jpg);
+    height:80svh ;
+}
+ header{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    padding-top:20px ;
+    margin-bottom:100px ;
+    
+ }
+ header:first-child{
+    color:red;
+    font-size:30px; 
+ }
+ header button{
+    font-size: 15px;
+    font-weight:bold;
+    color: white;
+    background-color: red;
+    width: 70px;
+    height: 30px;
+    border:none;
+    border-radius:5px;
+ }
+ main{
+    color: white;
+  text-align: center;
+  line-height:40px ;
+ }
+.main ,h2{
+   font-size:40px ;
+}
+ .main ,h5{
+   font-size:20px ;
+ }
+ #email{
+  background-color:transparent;
+    height:50px ;  
+  width:20%;
+margin-right:20px ;
+border: 0.1em solid grey;
+border-radius:5px ;
+
+ }
+ #button{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+   color: white;
+   background-color: red;
+   height:50px ;
+   width:10% ;
+   border:2px solid red;
+ 
+ }
